@@ -142,7 +142,7 @@ Mafia.
 
 ¿Qué te viene a la mente cuando dices eso?
 
-Estará la famosa película <El Padrino>, y poco a poco les vendrán a la mente cosas como la longitud superior de sus piernas y su impresionante apariencia en trajes.
+Estará la famosa película [El Padrino], y poco a poco les vendrán a la mente cosas como la longitud superior de sus piernas y su impresionante apariencia en trajes.
 
 Imagina esto. Un hombre latino musculoso disparando sexy con una Glock. Un fiel malo italiano que asesina sin piedad al cabeza de familia y regresa a casa para besar a su mujer y pasear a su perro.
 
@@ -33302,3 +33302,5 @@ Hyunwoo fue el paraíso que eligió. Allen no se arrepintió de esa elección. P
 
 
 Fin
+
+
